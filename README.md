@@ -27,7 +27,7 @@ Handles the **creation of posts** (called *JanAwaz*), which are appeals from cit
 - **False Count**: Number of users who dispute the issue
 - **Truth Rate**: A percentage based on community validation
 - **Comment **: People add comments as well
-- Github repo link: **https://github.com/Vivekkr0311/JanAwaz.git**
+- Github repo link: **https://github.com/Vivekkr0311/JanAwaz.git** (It is a private repo for now. If you would like to see it, drop me a message and I will explain the code over a call.)
 
 #### 📌 Example
 
@@ -97,7 +97,7 @@ Will act as an **API Gateway** to:
 
 ---
 
-## 📣 This is just a start...
+## 📣 This is just the beginning...
 
 LokDharma is a passion project aimed at real change. More features and services will be developed step by step. Contributions, feedback, and ideas are most welcome.
 
