@@ -60,10 +60,11 @@ Will manage:
 
 ---
 
-### 🧭 4. Eureka Server *(Planned)*
+### 🧭 4. Eureka Server 
 
 For **service discovery** and registry of microservices.
-
+Currently under developement.
+- Github repo link: **https://github.com/Vivekkr0311/EurekaServer_LokDharma.git**
 ---
 
 ### 🚪 5. Gateway Server *(Planned)*
