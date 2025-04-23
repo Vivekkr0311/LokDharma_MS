@@ -67,12 +67,11 @@ Currently under developement.
 - Github repo link: **https://github.com/Vivekkr0311/EurekaServer_LokDharma.git**
 ---
 
-### 🚪 5. Gateway Server *(Planned)*
-
-Will act as an **API Gateway** to:
+### 🚪 5. Gateway Server
 
 - Route requests to appropriate microservices
 - Handle cross-cutting concerns (e.g., logging, rate limiting, security)
+- Girhub repo link: **https://github.com/Vivekkr0311/LokDharma_Gateway.git**
 
 ---
 
